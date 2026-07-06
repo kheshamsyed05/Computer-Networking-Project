@@ -45,4 +45,4 @@ This project was developed as part of the Computer Networks course using Cisco P
 ![Network Topology](topology.png)
 
 ## License
-This project was developed as semester project for the subject of "Computert Networking".
+This project was developed as semester project for the subject of "Computer Networking".
